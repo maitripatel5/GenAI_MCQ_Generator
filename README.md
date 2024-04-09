@@ -1,6 +1,6 @@
 # MCQs Generator Application with LangChain and Generative AI🦜⛓️
 
-Implemented a mini project MCQ Generator Application using OpenAI API, LangChain, Prompt Templating, LLM, and Streamlit
+Implemented a project MCQ Generator Application that leverages OpenAI API, LangChain, Prompt Templating, LLM, and Streamlit. The application generates multiple-choice questions with four options each, providing a correct answer from an uploaded .txt or .pdf file.
 
 # MCQs Generator Application 
 
