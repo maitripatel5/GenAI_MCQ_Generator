@@ -14,3 +14,5 @@ MCQs Generation Application with LangChain and Generative AI🦜⛓️
 ![Execution2](https://github.com/maitripatel5/GenAI_MCQ_Generator/assets/117126117/3b9e9437-6e52-496f-9ef0-b0ba2e74db07)
 
 ![Logs](https://github.com/maitripatel5/GenAI_MCQ_Generator/assets/117126117/5de97ef1-5241-4434-ae48-c036ba64ca1c)
+
+![Structure](https://github.com/maitripatel5/GenAI_MCQ_Generator/assets/117126117/01376e1a-594b-4dcb-925f-d82657876201)
